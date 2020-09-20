@@ -1,9 +1,9 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.1",
     "main": "index.js",
     "author": "will@wasd.team",
     "module": "index.js",
-    "name": "@overgear/yup-ast",
+    "name": "stump-yup-ast",
     "description": "Yup AST generator",
     "repository": "git@github.com:WASD-Team/yup-ast.git",
     "scripts": {
